@@ -1,0 +1,4 @@
+variables:
+  ALERT_EMAIL_ADDRESS:
+    required: true
+    description: the email address to send the report to
