@@ -1,1 +1,0 @@
-This repo is designed to work with CloudCoreo. It will monitor all of your IAM policies for you and send a report to the email address on designated by the config.yaml ALERT_EMAIL_ADDRESS value
